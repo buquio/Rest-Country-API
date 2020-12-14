@@ -1,5 +1,4 @@
 # rest-countries-api
 Get and present data about countries using the REST Countries API.
 
-### Live Site
-https://thecodingjourney.github.io/rest-countries-api/
+A web App that help to show selected country information such as country flag, capital,dailing code, population, currency & region
